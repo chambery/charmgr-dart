@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <element name="x-toggle" constructor="ToggleComponent" extends="div">
+      <template>
+      		<div class="collapse" on-click="toggle()">&nbsp;
+      			<img class="collapse" src="{{collapse_img}}"/>
+          </div>
+        <div id="toggle_{{name}}">
+        	Hello world!
+        </div>
+      </template>
+      <script type="application/dart" src="xtoggle.dart"></script>
+    </element>
+  </body>
+</html>

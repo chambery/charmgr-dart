@@ -1,0 +1,1104 @@
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 427 ms
+Total time                                                   -- 459 ms
+build.dart finished [1133 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  49 ms
+build.dart finished [931 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  25 ms
+build.dart finished [736 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 432 ms
+Total time                                                   -- 469 ms
+build.dart finished [1381 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  38 ms
+build.dart finished [971 ms]
+
+---
+build.dart --machine --changed=web/xclickcounter.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 424 ms
+Total time                                                   -- 464 ms
+build.dart finished [1771 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  31 ms
+build.dart finished [874 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  44 ms
+build.dart finished [1608 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 387 ms
+Total time                                                   -- 417 ms
+build.dart finished [1106 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  43 ms
+build.dart finished [995 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 970 ms
+Total time                                                   -- 999 ms
+build.dart finished [1882 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   -- 130 ms
+build.dart finished [3012 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  22 ms
+build.dart finished [644 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 328 ms
+Total time                                                   -- 355 ms
+build.dart finished [986 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  34 ms
+build.dart finished [746 ms]
+
+---
+build.dart --machine --changed=web/x-toggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 375 ms
+Total time                                                   -- 404 ms
+build.dart finished [1019 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [530 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 303 ms
+Total time                                                   -- 321 ms
+build.dart finished [820 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [468 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart --removed=web/x-toggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 281 ms
+Total time                                                   -- 301 ms
+build.dart finished [753 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [484 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 273 ms
+Total time                                                   -- 291 ms
+build.dart finished [1161 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [468 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 280 ms
+Total time                                                   -- 301 ms
+build.dart finished [712 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [479 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 277 ms
+Total time                                                   -- 294 ms
+build.dart finished [721 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [457 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 268 ms
+Total time                                                   -- 292 ms
+build.dart finished [790 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [446 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 265 ms
+Total time                                                   -- 283 ms
+build.dart finished [833 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [447 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 312 ms
+Total time                                                   -- 331 ms
+build.dart finished [952 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [483 ms]
+
+---
+build.dart --machine --changed=web/out/l.dart.js --changed=web/out/l.dart.js.deps --changed=web/out/l.dart.js.m...
+Total time                                                   --  55 ms
+build.dart finished [2760 ms]
+
+---
+build.dart --machine --changed=web/l.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":347,"charEnd":398}}]
+Total time spent on web/l.html                               -- 296 ms
+Total time                                                   -- 314 ms
+build.dart finished [869 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [463 ms]
+
+---
+build.dart --machine --changed=web/l.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":346,"charEnd":397}}]
+Total time spent on web/l.html                               -- 201 ms
+Total time                                                   -- 218 ms
+build.dart finished [632 ms]
+
+---
+build.dart --machine --changed=web/l.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 202 ms
+Total time                                                   -- 221 ms
+build.dart finished [652 ms]
+
+---
+build.dart --machine --changed=web/out/l.dart.js --changed=web/out/l.dart.js.deps --changed=web/out/l.dart.js.m...
+Total time                                                   --  56 ms
+build.dart finished [1450 ms]
+
+---
+build.dart --machine --changed=web/out/l.html_bootstrap.dart.js --changed=web/out/l.html_bootstrap.dart.js.deps...
+Total time                                                   -- 117 ms
+build.dart finished [2308 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 468 ms
+Total time                                                   -- 498 ms
+build.dart finished [1505 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 333 ms
+Total time                                                   -- 374 ms
+build.dart finished [1078 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 882 ms
+Total time                                                   -- 1145 ms
+build.dart finished [2736 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 466 ms
+Total time                                                   -- 503 ms
+build.dart finished [1907 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 601 ms
+Total time                                                   -- 641 ms
+build.dart finished [2051 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 518 ms
+Total time                                                   -- 614 ms
+build.dart finished [1581 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 492 ms
+Total time                                                   -- 530 ms
+build.dart finished [1475 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  22 ms
+build.dart finished [461 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/xtoggle.html.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/xtoggle.html.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+[{"method":"warning","params":{"file":"web/l.html","message":"custom element with tag name x-toggle not found.","line":18,"charStart":362,"charEnd":413}}]
+Total time spent on web/l.html                               -- 225 ms
+Total time                                                   -- 246 ms
+build.dart finished [850 ms]
+
+---
+build.dart --machine --changed=web/l.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 287 ms
+Total time                                                   -- 307 ms
+build.dart finished [936 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [499 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  19 ms
+build.dart finished [484 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 295 ms
+Total time                                                   -- 313 ms
+build.dart finished [831 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  20 ms
+build.dart finished [727 ms]
+
+---
+build.dart --machine --changed=web/l.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 329 ms
+Total time                                                   -- 349 ms
+build.dart finished [1165 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [460 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  21 ms
+build.dart finished [492 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 291 ms
+Total time                                                   -- 311 ms
+build.dart finished [848 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  22 ms
+build.dart finished [704 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [449 ms]
+
+---
+build.dart --machine --changed=web/l.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 350 ms
+Total time                                                   -- 379 ms
+build.dart finished [853 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [474 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  29 ms
+build.dart finished [597 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 356 ms
+Total time                                                   -- 381 ms
+build.dart finished [1034 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  31 ms
+build.dart finished [791 ms]
+
+---
+build.dart --machine --changed=web/out/xtoggle.dart
+Total time                                                   --  20 ms
+build.dart finished [682 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 285 ms
+Total time                                                   -- 304 ms
+build.dart finished [873 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [525 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 303 ms
+Total time                                                   -- 324 ms
+build.dart finished [790 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  19 ms
+build.dart finished [502 ms]
+
+---
+build.dart --machine --changed=pubspec.lock --changed=pubspec.yaml --changed=web/l.css --changed=web/l.dart --c...
+Unhandled exception:
+Class '_LinkedHashTableValueIterable<Option>' has no instance method 'firstWhere'.
+
+NoSuchMethodError : method not found: 'firstWhere'
+Receiver: Instance of '_LinkedHashTableValueIterable@0x23c35ea0<Option>'
+Arguments: [Closure: (dynamic, dynamic) => dynamic, orElse: Closure: (dynamic) => dynamic]
+#0      Object.noSuchMethod (dart:core-patch:1838:25)
+#1      ArgParser.findByAbbreviation (package:args/args.dart:329:37)
+#2      ArgParser._addOption (package:args/args.dart:288:40)
+#3      ArgParser.addFlag (package:args/args.dart:260:15)
+#4      _processArgs (package:web_ui/component_build.dart:123:14)
+#5      build.<anonymous closure> (package:web_ui/component_build.dart:39:28)
+#6      asyncTime (package:web_ui/src/utils.dart:63:18)
+#7      build (package:web_ui/component_build.dart:38:19)
+#8      main (file:///Users/chambery/projects/l/build.dart:6:8)
+build.dart finished [1429 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  26 ms
+build.dart finished [1216 ms]
+
+---
+build.dart --machine --full
+Unhandled exception:
+Class '_LinkedHashTableValueIterable<Option>' has no instance method 'firstWhere'.
+
+NoSuchMethodError : method not found: 'firstWhere'
+Receiver: Instance of '_LinkedHashTableValueIterable@0x23c35ea0<Option>'
+Arguments: [Closure: (dynamic, dynamic) => dynamic, orElse: Closure: (dynamic) => dynamic]
+#0      Object.noSuchMethod (dart:core-patch:1838:25)
+#1      ArgParser.findByAbbreviation (package:args/args.dart:329:37)
+#2      ArgParser._addOption (package:args/args.dart:288:40)
+#3      ArgParser.addFlag (package:args/args.dart:260:15)
+#4      _processArgs (package:web_ui/component_build.dart:123:14)
+#5      build.<anonymous closure> (package:web_ui/component_build.dart:39:28)
+#6      asyncTime (package:web_ui/src/utils.dart:63:18)
+#7      build (package:web_ui/component_build.dart:38:19)
+#8      main (file:///Users/chambery/projects/l/build.dart:6:8)
+build.dart finished [580 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  36 ms
+build.dart finished [1352 ms]
+
+---
+build.dart --machine --changed=web/out/l.dart.js --changed=web/out/l.dart.js.deps --changed=web/out/l.dart.js.m...
+Total time                                                   --  26 ms
+build.dart finished [826 ms]
+
+---
+build.dart --machine --changed=web/out/l.html_bootstrap.dart.js --changed=web/out/l.html_bootstrap.dart.js.deps...
+Total time                                                   --  22 ms
+build.dart finished [614 ms]
+
+---
+build.dart --machine --clean
+Total time                                                   --  23 ms
+build.dart finished [634 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 322 ms
+Total time                                                   -- 343 ms
+build.dart finished [944 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [678 ms]
+
+---
+build.dart --machine --changed=images/web/l.css --changed=images/web/l.dart --changed=images/web/l.dart.js --ch...
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"error","params":{"file":"web/l.html","message":"exception while reading file, original message:\n AsyncError: 'FileIOException: Cannot open file 'web/l.html' (OS Error: No such file or directory, errno = 2)'\nStack trace:\n#0      _File.open.<anonymous closure> (dart:io:1049:9)\n#1      _ThenFuture._sendValue (dart:async:463:24)\n#2      _FutureImpl._setValue (dart:async:361:26)\n#3      _CompleterImpl.complete (dart:async:190:21)\n#4      _SendPortImpl.call.<anonymous closure> (dart:isolate-patch:106:27)\n#5      _ReceivePortImpl._handleMessage (dart:isolate-patch:81:92)\n\n","line":1}}]
+Total time spent on web/l.html                               --  54 ms
+Total time                                                   --  77 ms
+build.dart finished [704 ms]
+
+---
+build.dart --machine --changed=web/l.css --changed=web/l.dart --changed=web/l.dart.js --changed=web/l.dart.js.d...
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 265 ms
+Total time                                                   -- 283 ms
+build.dart finished [718 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [510 ms]
+
+---
+build.dart --machine --changed=web/images/collapsed.png --changed=web/images/expanded.png
+Total time                                                   --  15 ms
+build.dart finished [462 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 285 ms
+Total time                                                   -- 303 ms
+build.dart finished [729 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [434 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 271 ms
+Total time                                                   -- 289 ms
+build.dart finished [718 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [443 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 282 ms
+Total time                                                   -- 304 ms
+build.dart finished [844 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 274 ms
+Total time                                                   -- 292 ms
+build.dart finished [724 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [428 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 312 ms
+Total time                                                   -- 331 ms
+build.dart finished [773 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [454 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  20 ms
+build.dart finished [486 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [649 ms]
+
+---
+build.dart --machine --changed=web/out/images/collapsed.png --changed=web/out/images/expanded.png --removed=web...
+Total time                                                   --  22 ms
+build.dart finished [614 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/l.css","message":"premature end of file unknown CSS","line":45,"charStart":604,"charEnd":605}}]
+Total time spent on web/l.html                               -- 325 ms
+Total time                                                   -- 348 ms
+build.dart finished [989 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [480 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/l.css","message":"premature end of file unknown CSS","line":45,"charStart":604,"charEnd":605}}]
+Total time spent on web/l.html                               -- 374 ms
+Total time                                                   -- 398 ms
+build.dart finished [932 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [548 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [522 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 336 ms
+Total time                                                   -- 367 ms
+build.dart finished [932 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [541 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 306 ms
+Total time                                                   -- 325 ms
+build.dart finished [773 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [471 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 333 ms
+Total time                                                   -- 375 ms
+build.dart finished [943 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [484 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag (div) in table context caused voodoo mode.","line":12,"charStart":309,"charEnd":326}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (div) in table context caused voodoo mode.","line":14,"charStart":357,"charEnd":363}}]
+Total time spent on web/l.html                               -- 344 ms
+Total time                                                   -- 363 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [496 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag (div) in table context caused voodoo mode.","line":12,"charStart":308,"charEnd":325}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (div) in table context caused voodoo mode.","line":14,"charStart":356,"charEnd":362}}]
+Total time spent on web/l.html                               -- 302 ms
+Total time                                                   -- 319 ms
+build.dart finished [767 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [479 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag (div) in table context caused voodoo mode.","line":12,"charStart":328,"charEnd":345}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (div) in table context caused voodoo mode.","line":14,"charStart":376,"charEnd":382}}]
+Total time spent on web/l.html                               -- 365 ms
+Total time                                                   -- 387 ms
+build.dart finished [920 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [440 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  20 ms
+build.dart finished [450 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag (div) in table context caused voodoo mode.","line":12,"charStart":328,"charEnd":345}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (div) in table context caused voodoo mode.","line":14,"charStart":376,"charEnd":382}}]
+Total time spent on web/l.html                               -- 303 ms
+Total time                                                   -- 322 ms
+build.dart finished [856 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  21 ms
+build.dart finished [462 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [432 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [491 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 298 ms
+Total time                                                   -- 316 ms
+build.dart finished [744 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  23 ms
+build.dart finished [465 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 293 ms
+Total time                                                   -- 310 ms
+build.dart finished [749 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [442 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [435 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 317 ms
+Total time                                                   -- 335 ms
+build.dart finished [754 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [512 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 311 ms
+Total time                                                   -- 330 ms
+build.dart finished [807 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [448 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 287 ms
+Total time                                                   -- 305 ms
+build.dart finished [737 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [522 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag td. Ignored.","line":8,"charStart":184,"charEnd":225}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (td). Ignored.","line":9,"charStart":285,"charEnd":290}}]
+Total time spent on web/l.html                               -- 310 ms
+Total time                                                   -- 333 ms
+build.dart finished [937 ms]
+
+---
+build.dart --machine --changed=web/l.css --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.d...
+Total time                                                   --  21 ms
+build.dart finished [491 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected start tag td. Ignored.","line":8,"charStart":184,"charEnd":225}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (td). Ignored.","line":9,"charStart":285,"charEnd":290}}]
+Total time spent on web/l.html                               -- 334 ms
+Total time                                                   -- 356 ms
+build.dart finished [808 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [488 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"Unexpected end tag (td). Ignored.","line":5,"charStart":230,"charEnd":235}}]
+Total time spent on web/l.html                               -- 287 ms
+Total time                                                   -- 305 ms
+build.dart finished [853 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [459 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":259,"charEnd":265}}]
+Total time spent on web/l.html                               -- 315 ms
+Total time                                                   -- 332 ms
+build.dart finished [796 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":259,"charEnd":265}}]
+Total time spent on web/l.html                               -- 316 ms
+Total time                                                   -- 336 ms
+build.dart finished [798 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [501 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":259,"charEnd":265}}]
+Total time spent on web/l.html                               -- 286 ms
+Total time                                                   -- 303 ms
+build.dart finished [733 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [449 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+[{"method":"warning","params":{"file":"web/xtoggle.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":265,"charEnd":271}}]
+Total time spent on web/l.html                               -- 359 ms
+Total time                                                   -- 380 ms
+build.dart finished [835 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [438 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  18 ms
+build.dart finished [464 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [444 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  19 ms
+build.dart finished [457 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [444 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  14 ms
+build.dart finished [564 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  14 ms
+build.dart finished [554 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [465 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  14 ms
+build.dart finished [606 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  16 ms
+build.dart finished [439 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  15 ms
+build.dart finished [478 ms]
+
+---
+build.dart --machine --changed=web/l.css
+Total time                                                   --  16 ms
+build.dart finished [464 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 358 ms
+Total time                                                   -- 376 ms
+build.dart finished [954 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [474 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.html
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 356 ms
+Total time                                                   -- 379 ms
+build.dart finished [834 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [476 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 454 ms
+Total time                                                   -- 481 ms
+build.dart finished [1171 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  29 ms
+build.dart finished [691 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 345 ms
+Total time                                                   -- 363 ms
+build.dart finished [834 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [468 ms]
+
+---
+build.dart --machine --changed=web/xtoggle.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 332 ms
+Total time                                                   -- 352 ms
+build.dart finished [844 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [445 ms]
+
+---
+build.dart --machine --changed=store.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 363 ms
+Total time                                                   -- 383 ms
+build.dart finished [975 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [480 ms]
+
+---
+build.dart --machine --changed=store.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 353 ms
+Total time                                                   -- 373 ms
+build.dart finished [864 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [453 ms]
+
+---
+build.dart --machine --changed=store.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 352 ms
+Total time                                                   -- 370 ms
+build.dart finished [807 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  16 ms
+build.dart finished [457 ms]
+
+---
+build.dart --machine --changed=dao.dart --removed=store.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 346 ms
+Total time                                                   -- 365 ms
+build.dart finished [793 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [458 ms]
+
+---
+build.dart --machine --changed=dao.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 362 ms
+Total time                                                   -- 381 ms
+build.dart finished [943 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  17 ms
+build.dart finished [467 ms]
+
+---
+build.dart --machine --changed=dao.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 401 ms
+Total time                                                   -- 420 ms
+build.dart finished [996 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  27 ms
+build.dart finished [548 ms]
+
+---
+build.dart --machine --changed=dao.dart
+[{"method":"mapping","params":{"from":"web/l.html","to":"web/out/l.html"}}]
+Total time spent on web/l.html                               -- 343 ms
+Total time                                                   -- 363 ms
+build.dart finished [914 ms]
+
+---
+build.dart --machine --changed=web/out/l.css --changed=web/out/l.dart --changed=web/out/l.dart.map --changed=we...
+Total time                                                   --  15 ms
+build.dart finished [458 ms]
+

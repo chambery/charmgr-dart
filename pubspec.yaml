@@ -1,0 +1,7 @@
+name: l
+description: A sample WebUI application
+dependencies:
+  lawndart: any
+  js: any
+  browser: any
+  web_ui: any

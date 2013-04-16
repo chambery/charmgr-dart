@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sample app</title>
+    <link rel="stylesheet" href="l.css">
+    
+    <!-- import the click-counter -->
+    <link rel="components" href="xtoggle.html">
+  </head>
+  <body>
+    <h1>Toggle me toggley</h1>
+    
+    <p>Hello world from Dart!</p>
+    
+    <div id="sample_container_id">
+      <div is="x-toggle" state="{{state}}"></div>
+    </div>
+
+    <script type="application/dart" src="l.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
